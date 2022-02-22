@@ -55,7 +55,14 @@
 		},
 		"css": ".v-item-group.group{margin-top: 16px;}"
 	},
-	 {
+	{
+		"des": {
+			"zh_CN": "更低的标签栏背景透明度",
+			"en": "Lower TAB bar background transparency"
+		},
+		"css": ".theme--dark .main{background-color:rgba(10,10,10,45%)!important}.theme--light .main{background-color:rgba(245,245,245,33%)!important}"
+  },
+	{
 		"des": {
 			"zh_CN": "居中的 一言 & 输入框",
 			"en": "Centered Yi Yan & Input box"
