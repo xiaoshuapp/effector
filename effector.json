@@ -1,0 +1,58 @@
+[
+	{
+		"des": {
+			"zh_CN": "隐藏快速目录",
+			"en": "Hide catalog"
+		},
+		"css": "#catalog{display: none;}"
+	},
+    {
+		"des": {
+			"zh_CN": "隐藏搜索补全",
+			"en": "Hide search completion"
+		},
+		"css": "#searchAutoFill{display: none;}"
+	},
+    {
+		"des": {
+			"zh_CN": "隐藏搜索建议",
+			"en": "Hide search suggestions"
+		},
+		"css": "#searchSuggestion{display: none;}"
+	},
+    {
+		"des": {
+			"zh_CN": "隐藏临时搜索引擎",
+			"en": "Hide temporary search engine"
+		},
+		"css": "#searchQuickEngine{display: none;}"
+	},
+    {
+		"des": {
+			"zh_CN": "隐藏搜索框",
+			"en": "Hide search box"
+		},
+		"css": "#chainwon-search{display: none;}"
+	},
+    {
+		"des": {
+			"zh_CN": "隐藏头部一句话（一言）",
+			"en": "Hide a word in the head (hitokoto)"
+		},
+		"css": "#hitokoto{display: none;}"
+	},
+    {
+		"des": {
+			"zh_CN": "隐藏头部",
+			"en": "Hide header"
+		},
+		"css": ".container.cb{display: none;}"
+	},
+    {
+		"des": {
+			"zh_CN": "调整屏幕切换按钮位置",
+			"en": "Adjust the screen switch button position"
+		},
+		"css": ".v-item-group.group{margin-top: 16px;}"
+	}
+]
