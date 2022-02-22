@@ -54,5 +54,12 @@
 			"en": "Adjust the screen switch button position"
 		},
 		"css": ".v-item-group.group{margin-top: 16px;}"
+	},
+	{
+		"des": {
+			"zh_CN": "更低的标签栏背景透明度",
+			"en": "Lower TAB bar background transparency"
+		},
+		"css": ".theme--dark .main{background-color:rgba(10,10,10,45%)!important}.theme--light .main{background-color:rgba(245,245,245,33%)!important}"
 	}
 ]
