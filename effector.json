@@ -75,5 +75,12 @@
 			"en": "Hide scroll bar"
 		},
 		"css": "::-webkit-scrollbar{display:none;}body{scrollbar-width:none;}"
+	},
+	{
+		"des": {
+			"zh_CN": "浮动搜索框，页面下滑时生效",
+			"en": "Floating search box, effective when the page slides down."
+		},
+		"css": ".cb .row:nth-child(2){transition:all 0.2s ease-in-out}.v-app-bar--is-scrolled + .cb .row:nth-child(2){position:fixed;z-index:1;top:24px}.v-app-bar--is-scrolled + .cb .row:nth-child(2) #chainwon-search{box-shadow:0 4px 20px 7px rgba(0,0,0,0.1)}"
 	}
 ]
