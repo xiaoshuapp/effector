@@ -6,49 +6,49 @@
 		},
 		"css": "#catalog{display: none;}"
 	},
-    {
+	{
 		"des": {
 			"zh_CN": "隐藏搜索补全",
 			"en": "Hide search completion"
 		},
 		"css": "#searchAutoFill{display: none;}"
 	},
-    {
+	{
 		"des": {
 			"zh_CN": "隐藏搜索建议",
 			"en": "Hide search suggestions"
 		},
 		"css": "#searchSuggestion{display: none;}"
 	},
-    {
+	{
 		"des": {
 			"zh_CN": "隐藏临时搜索引擎",
 			"en": "Hide temporary search engine"
 		},
 		"css": "#searchQuickEngine{display: none;}"
 	},
-    {
+	{
 		"des": {
 			"zh_CN": "隐藏搜索框",
 			"en": "Hide search box"
 		},
 		"css": "#chainwon-search{display: none;}"
 	},
-    {
+	{
 		"des": {
 			"zh_CN": "隐藏头部一句话（一言）",
 			"en": "Hide a word in the head (hitokoto)"
 		},
 		"css": "#hitokoto{display: none;}"
 	},
-    {
+	{
 		"des": {
 			"zh_CN": "隐藏头部",
 			"en": "Hide header"
 		},
 		"css": ".container.cb{display: none;}"
 	},
-    {
+	{
 		"des": {
 			"zh_CN": "调整屏幕切换按钮位置",
 			"en": "Adjust the screen switch button position"
@@ -61,12 +61,19 @@
 			"en": "Lower TAB bar background transparency"
 		},
 		"css": ".theme--dark .main{background-color:rgba(10,10,10,45%)!important}.theme--light .main{background-color:rgba(245,245,245,33%)!important}"
-  },
+	},
 	{
 		"des": {
 			"zh_CN": "居中的 一言 & 输入框",
 			"en": "Centered Yi Yan & Input box"
 		},
 		"css": ".cb > .row {justify-content: center;}"
+	},
+	{
+		"des": {
+			"zh_CN": "隐藏滚动条",
+			"en": "Hide scroll bar"
+		},
+		"css": "::-webkit-scrollbar{display:none;}body{scrollbar-width:none;}"
 	}
 ]
