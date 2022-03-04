@@ -1,0 +1,12 @@
+.cb .search {
+	transition: all 0.2s ease-in-out;
+}
+.v-app-bar--is-scrolled + .cb .search {
+	max-width: inherit;
+	position: fixed;
+	z-index: 1;
+	top: 24px;
+}
+.v-app-bar--is-scrolled + .cb .search #chainwon-search {
+	box-shadow: 0 4px 20px 7px rgba(0, 0, 0, 0.1);
+}

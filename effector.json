@@ -81,6 +81,13 @@
 			"zh_CN": "浮动搜索框，页面下滑时生效",
 			"en": "Floating search box, effective when the page slides down."
 		},
-		"css": ".cb .row:nth-child(2){transition:all 0.2s ease-in-out}.v-app-bar--is-scrolled + .cb .row:nth-child(2){max-width:inherit;position:fixed;z-index:1;top:24px}.v-app-bar--is-scrolled + .cb .row:nth-child(2) #chainwon-search{box-shadow:0 4px 20px 7px rgba(0,0,0,0.1)}"
+		"css": ".cb .search{transition:all 0.2s ease-in-out;}.v-app-bar--is-scrolled + .cb .search{max-width:inherit;position:fixed;z-index:1;top:24px;}.v-app-bar--is-scrolled + .cb .search #chainwon-search{box-shadow:0 4px 20px 7px rgba(0,0,0,0.1);}"
+	},
+	{
+		"des": {
+			"zh_CN": "隐藏最顶部的图标/收藏夹内容",
+			"en": "Hide the top icon/favorite content"
+		},
+		"css": ".container > .v-window > .v-window__container > .v-window-item > .v-lazy > .row > .bookmark{display:none;}.container > .v-window > .v-window__container > .v-window-item > .v-lazy > .row > .bookmark + .list-group{margin-top:0px!important;}"
 	}
 ]
