@@ -89,5 +89,12 @@
 			"en": "Hide the top icon/favorite content"
 		},
 		"css": ".container > .v-window > .v-window__container > .v-window-item > .v-lazy > .row > .bookmark{display:none;}.container > .v-window > .v-window__container > .v-window-item > .v-lazy > .row > .bookmark + .list-group{margin-top:0px!important;}"
+	},
+	{
+		"des": {
+			"zh_CN": "隐藏收藏夹市场",
+			"en": "Hide the market of bookmarks"
+		},
+		"css": "#market{display:none;}"
 	}
 ]
