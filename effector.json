@@ -96,5 +96,12 @@
 			"en": "Hide the market of bookmarks"
 		},
 		"css": "#market{display:none;}"
+	},
+	{
+		"des": {
+			"zh_CN": "加宽显示范围",
+			"en": "Widen the display range"
+		},
+		"css": ".container{max-width:100%;padding-left:1.5rem;padding-right:1.5rem;}"
 	}
 ]
