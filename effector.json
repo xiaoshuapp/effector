@@ -103,5 +103,12 @@
 			"en": "Widen the display range"
 		},
 		"css": ".container{max-width:100%;padding-left:1.5rem;padding-right:1.5rem;}"
+	},
+	{
+		"des": {
+			"zh_CN": "面板内容过多显示滚动条",
+			"en": "show scroll bar when too much fav items"
+		},
+		"css": ".v-lazy>.row{max-height:60vh;overflow-y:scroll;overflow-y:auto;}"
 	}
 ]
