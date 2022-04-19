@@ -110,5 +110,12 @@
 			"en": "show scroll bar when too much fav items"
 		},
 		"css": ".v-lazy>.row{max-height:60vh;overflow-y:scroll;overflow-y:auto;}"
+	},
+	{
+		"des": {
+			"zh_CN": "一言前方添加气泡表情",
+			"en": "Add bubble emoji in front of hitokoto"
+		},
+		"css": "#hitokoto::before{content: '💬';}"
 	}
 ]
