@@ -117,5 +117,13 @@
 			"en": "Add bubble emoji in front of hitokoto"
 		},
 		"css": "#hitokoto::before{content: '💬';}"
+	},
+	{
+		"des": {
+			"zh_CN": "禁止选中页内文字",
+			"en":"Prohibit selecting text on page"
+		},
+		"css": "body{-webkit-user-select: none;}"
+		
 	}
 ]
