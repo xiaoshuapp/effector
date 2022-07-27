@@ -113,8 +113,8 @@
 	},
 	{
 		"des": {
-			"zh_CN": "Square cards without borders",
-			"en": "Prohibit selecting text on page"
+			"zh_CN": "正方形卡片无边框",
+			"en": "Square cards without borders"
 		},
 		"css": ".square .logo{padding:0}.square .v-avatar{border-radius:var(--border)}"
 	}
