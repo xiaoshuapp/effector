@@ -36,13 +36,6 @@
 	},
 	{
 		"des": {
-			"zh_CN": "隐藏头部一句话（一言）",
-			"en": "Hide a word in the head (hitokoto)"
-		},
-		"css": "#hitokoto{display: none;}"
-	},
-	{
-		"des": {
 			"zh_CN": "隐藏头部",
 			"en": "Hide header"
 		},
@@ -53,7 +46,7 @@
 			"zh_CN": "调整屏幕切换按钮位置",
 			"en": "Adjust the screen switch button position"
 		},
-		"css": ".v-item-group.group{margin-top: 16px;}"
+		"css": "#screenButton{margin-top: 16px;}"
 	},
 	{
 		"des": {
@@ -88,7 +81,7 @@
 			"zh_CN": "隐藏最顶部的图标/收藏夹内容",
 			"en": "Hide the top icon/favorite content"
 		},
-		"css": ".container > .v-window > .v-window__container > .v-window-item > .v-lazy > .row > .bookmark{display:none;}.container > .v-window > .v-window__container > .v-window-item > .v-lazy > .row > .bookmark + .list-group{margin-top:0px!important;}"
+		"css": ".container > .v-window > .v-window__container > .v-window-item > .v-lazy > .row > .bookmark{display:none;}.container > .v-window > .v-window__container > .v-window-item > .v-lazy > .row > .bookmark + .group{margin-top:0px!important;}"
 	},
 	{
 		"des": {
@@ -111,19 +104,12 @@
 		},
 		"css": ".v-lazy>.row{max-height:60vh;overflow-y:scroll;overflow-y:auto;}"
 	},
-	{
-		"des": {
-			"zh_CN": "一言前方添加气泡表情",
-			"en": "Add bubble emoji in front of hitokoto"
-		},
-		"css": "#hitokoto::before{content: '💬';}"
-	},
+
 	{
 		"des": {
 			"zh_CN": "禁止选中页内文字",
-			"en":"Prohibit selecting text on page"
+			"en": "Prohibit selecting text on page"
 		},
 		"css": "body{-webkit-user-select: none;}"
-		
 	}
 ]
