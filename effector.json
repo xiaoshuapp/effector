@@ -104,12 +104,18 @@
 		},
 		"css": ".v-lazy>.row{max-height:60vh;overflow-y:scroll;overflow-y:auto;}"
 	},
-
 	{
 		"des": {
 			"zh_CN": "禁止选中页内文字",
 			"en": "Prohibit selecting text on page"
 		},
 		"css": "body{-webkit-user-select: none;}"
+	},
+	{
+		"des": {
+			"zh_CN": "Square cards without borders",
+			"en": "Prohibit selecting text on page"
+		},
+		"css": ".square .logo{padding:0}.square .v-avatar{border-radius:var(--border)}"
 	}
 ]
