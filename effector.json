@@ -8,13 +8,6 @@
 	},
 	{
 		"des": {
-			"zh_CN": "隐藏搜索补全",
-			"en": "Hide search completion"
-		},
-		"css": "#searchAutoFill{display: none;}"
-	},
-	{
-		"des": {
 			"zh_CN": "隐藏搜索建议",
 			"en": "Hide search suggestions"
 		},
@@ -39,14 +32,7 @@
 			"zh_CN": "隐藏头部",
 			"en": "Hide header"
 		},
-		"css": ".container.cb{display: none;}"
-	},
-	{
-		"des": {
-			"zh_CN": "调整屏幕切换按钮位置",
-			"en": "Adjust the screen switch button position"
-		},
-		"css": "#screenButton{margin-top: 16px;}"
+		"css": ".container.cb{display: none;}#screenButton{margin-top: 16px!important;}"
 	},
 	{
 		"des": {
