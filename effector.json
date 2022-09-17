@@ -29,8 +29,8 @@
 	},
 	{
 		"des": {
-			"zh_CN": "隐藏头部",
-			"en": "Hide header"
+			"zh_CN": "隐藏头部 & 搜索框",
+			"en": "Hide header & search box"
 		},
 		"css": ".container.cb{display: none;}#screenButton{margin-top: 16px!important;}"
 	},
